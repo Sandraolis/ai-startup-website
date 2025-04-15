@@ -35,10 +35,17 @@ git pull origin main
 ``` bash
 git add .
 ```
+![git-add](./images/git-add.png)
+
+2. ### After staging it, then you commit it by running this command.
+
 ``` bash
 git commit -m "pushing the updated version to github"
 ```
+![git-commit](./images/git-commit.png)
+
+3. ### Finally, you push the change to github with this command.
 ``` bash
 git push origin add-contact-info
 ```
-
+![git-push](./images/git-push.png)
